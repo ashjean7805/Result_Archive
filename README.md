@@ -11,6 +11,7 @@
 ## Master
 [Beamer](https://github.com/ashjean7805/Result_Archive/blob/main/Master/Beamer.pdf)
 - 졸업논문 발표 슬라이드
+- 
 [Paper](https://github.com/ashjean7805/Result_Archive/blob/main/Master/Paper.pdf)
 - 졸업논문 
 
